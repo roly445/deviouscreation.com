@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Website of Andrew Davis</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Website of Andrew Davis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 21 Jun 2025 11:29:36 +0100</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Problem: Why Blazor Developers Need BluQube</title>
+      <link>http://localhost:1313/posts/the-problem-why-blazor-developers-need-bluqube/</link>
+      <pubDate>Sat, 21 Jun 2025 11:29:36 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/the-problem-why-blazor-developers-need-bluqube/</guid>
+      
+        <description>&lt;p&gt;When Microsoft introduced Blazor, it promised to revolutionize web development by allowing C# developers to build interactive web applications without JavaScript. The technology delivered on that promise, but it also introduced a new challenge: the choice between Blazor Server and Blazor WebAssembly (WASM).&lt;/p&gt;
+&lt;h2 id=&#34;the-tale-of-two-blazors&#34;&gt;The Tale of Two Blazors&lt;/h2&gt;
+&lt;p&gt;Blazor Server runs your application on the server, streaming UI updates over a SignalR connection. It&amp;rsquo;s fast to load, works on any device, and has full access to server resources. But it requires a constant connection and can feel laggy over slow networks.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

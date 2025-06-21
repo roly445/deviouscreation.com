@@ -1,0 +1,55 @@
+baseURL = "https://example.com"
+languageCode = "en"
+DefaultContentLanguage = "en"
+title = "Website of Andrew Davis"
+
+# theme as hugo module
+#theme = "github.com/lxndrblz/anatole"
+# theme as git submodule
+theme = "anatole"
+
+[params]
+title = "I'm Andrew Davis"
+author = "Devious Creation"
+description = "The thoughts and musings of one bearded developer."
+profilePicture = "images/profile.jpeg"
+favicon = "favicons/"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/andrew-davis-928b2a48/"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://www.github.com/roly445/"
+
+[[params.socialIcons]]
+icon = "fab fa-x"
+title = "X"
+url = "https://x.com/roly445"
+
+[[params.socialIcons]]
+icon = "fab fa-bluesky"
+title = "BlueSky"
+url = "https://bsky.app/profile/roly445.bsky.social"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:contact@deviouscreation.com"
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
