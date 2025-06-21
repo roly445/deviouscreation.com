@@ -120,4 +120,6 @@ In the next article, I'll introduce BluQube and show you how it makes this visio
 
 BluQube isn't just another framework - it's a new way of thinking about Blazor development that puts your business logic first and deployment concerns second.
 
+**Want to see the code right now?** Check out the [BluQube repository on GitHub](https://github.com/roly445/bluqube) to explore the framework and see working examples.
+
 *Ready to see how it works? Let's dive into BluQube in the next article.*

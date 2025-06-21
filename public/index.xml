@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Website of Andrew Davis</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.com/</link>
     <description>Recent content on Website of Andrew Davis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Jun 2025 13:16:15 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Jun 2025 13:16:15 +0100</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://example.com/about/</link>
       <pubDate>Sat, 21 Jun 2025 13:16:15 +0100</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://example.com/about/</guid>
       
         <description>&lt;p&gt;Greetings, fellow tech enthusiasts! I am a seasoned Full Stack .NET developer and technologist with an illustrious 15-year journey in software development. Throughout my career, I&amp;rsquo;ve embodied the principles of DevOps and SecOps, ensuring that my solutions perform exceptionally and are fortified with robust security and operational efficiency.&lt;/p&gt;
 &lt;p&gt;On the development front, my expertise extends to wielding TypeScript and SCSS on the front end, complemented by Webpack&amp;rsquo;s prowess to create captivating user interfaces. While I don&amp;rsquo;t consider myself a design virtuoso, I have a perceptive eye for detecting design intricacies and addressing usability issues, collaborating effectively with designers to enhance overall user experiences.&lt;/p&gt;</description>
@@ -21,10 +21,10 @@
     
     <item>
       <title>The Problem: Why Blazor Developers Need BluQube</title>
-      <link>http://localhost:1313/posts/the-problem-why-blazor-developers-need-bluqube/</link>
+      <link>https://example.com/posts/the-problem-why-blazor-developers-need-bluqube/</link>
       <pubDate>Sat, 21 Jun 2025 11:29:36 +0100</pubDate>
       
-      <guid>http://localhost:1313/posts/the-problem-why-blazor-developers-need-bluqube/</guid>
+      <guid>https://example.com/posts/the-problem-why-blazor-developers-need-bluqube/</guid>
       
         <description>&lt;p&gt;When Microsoft introduced Blazor, it promised to revolutionize web development by allowing C# developers to build interactive web applications without JavaScript. The technology delivered on that promise, but it also introduced a new challenge: the choice between Blazor Server and Blazor WebAssembly (WASM).&lt;/p&gt;
 &lt;h2 id=&#34;the-tale-of-two-blazors&#34;&gt;The Tale of Two Blazors&lt;/h2&gt;
