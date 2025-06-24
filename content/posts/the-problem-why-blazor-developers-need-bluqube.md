@@ -2,12 +2,13 @@
 date = '2025-06-21T11:29:36+01:00'
 draft = false
 title = 'The Problem: Why Blazor Developers Need BluQube'
+summary = 'Choosing between Blazor Server and WebAssembly forces developers into difficult architectural decisions and often leads to duplicated code, complex abstractions, and maintenance headaches. This article explores the challenges of supporting both Blazor models, why existing solutions fall short, and introduces the vision for BluQube—a framework designed to let you write business logic once and deploy it anywhere.'
 +++
 
 **BluQube Blog Series:**
 
 1. The Problem: Why Blazor Developers Need BluQube
-2. Introducing BluQube: Write Once, Run Everywhere in Blazor
+[2. Introducing BluQube: Write Once, Run Everywhere in Blazor](posts/introducing-bluqube-write-once-run-everywhere-in-blazor/)
 3. Deep Dive: CQRS Architecture Made Simple with BluQube
 4. Source Generation Magic: How BluQube Automates the Boring Stuff
 5. Building Real Applications: A Todo App Case Study
