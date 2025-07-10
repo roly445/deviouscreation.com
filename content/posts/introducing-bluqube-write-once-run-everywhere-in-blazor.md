@@ -8,8 +8,8 @@ summary = 'Discover how BluQube lets you write your business logic once and run 
 **BluQube Blog Series:**
 
 1. [The Problem: Why Blazor Developers Need BluQube](/posts/the-problem-why-blazor-developers-need-bluqube)
-2. Introducing BluQube: Write Once, Run Everywhere in Blazor
-3. Deep Dive: CQRS Architecture Made Simple with BluQube
+2. *Introducing BluQube: Write Once, Run Everywhere in Blazor*
+3. [Deep Dive: CQRS Architecture Made Simple with BluQube](/posts/deep-dive-cqrs-architecture-made-simple-with-bluqube)
 4. Source Generation Magic: How BluQube Automates the Boring Stuff
 5. Building Real Applications: A Todo App Case Study
 6. Validation, Error Handling, and Authorisation in BluQube
